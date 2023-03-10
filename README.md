@@ -6,7 +6,7 @@ The program can be configured by creating an ini file called "Config" in the dir
 
 The resolution setting of the program can be configured with the following Section, Key combination
 
-[Program]
+[Program] 
 highRes=<true|false>
 
 if no configuration file is found the application will query the user
